@@ -1,2 +1,7 @@
-# senior-developer
-Trying to create a collective image of a Senior Software Developer.
+# What is a "Senior Software Developer"?
+1. This repository is to be extended. Any help is very velcome! Feel free to submit your pull requests.
+
+# Characteristics
+## Personal
+## Technical
+## Inter-personal
