@@ -14,4 +14,4 @@ It turns out, defining the "Senior Software Engineer" is quite a complex. Most o
 # Overview
 The biggest characteristic of a Senior Software Engineer overheard in virtually every conversation on the topic is as follows:
 
-A Senior Software Engineer is a Software Engineer who **enables the other Software Engineers to do their jobs better** on all the levels from brainstorming to the last bit of execution.
+A Senior Software Engineer is a Software Engineer who **enables the other Software Engineers to do their jobs better** on different levels varying from brainstorming to the last bit of execution.
