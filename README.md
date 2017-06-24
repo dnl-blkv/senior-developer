@@ -1,5 +1,5 @@
 # What is a "Senior Software Engineer"?
-This repository is a knowledge base on what a Senior Software Engineer (Senior Developer) is and how to become one.
+It turns out, defining the "Senior Software Engineer" is quite a complex. Most of the managers simply go with their gut feeling when it comes to the matter. This repository is a knowledge base on what a Senior Software Engineer (Senior Developer) is and how to become one.
 
 # Links
 ## Definition
