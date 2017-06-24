@@ -7,4 +7,5 @@ This repository is a database on what is a Senior Developer (or Senior Software 
 - An interesting view on what makes a Senior Software Engineer: https://medium.com/@kurtisnusbaum/what-makes-a-senior-software-engineer-b65c88c539c
 
 # Overview
-- The biggest general characteristic of a Senior Software Engineer that can be taken from the sources above is as follows: "A Senior Software Engineer is a Software Engineer who _enables_ the other Software Engineers to do their job better on all the levels from brainstorming to the last bit of execution."
+- The biggest characteristic of a Senior Software Engineer which can be heard in virtually every conversation on the topic is as follows:
+> A Senior Software Engineer is a Software Engineer who **enables the other Software Engineers to do their jobs better** on all the levels from brainstorming to the last bit of execution.
