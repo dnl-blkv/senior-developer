@@ -6,6 +6,7 @@ It turns out, defining the "Senior Software Engineer" is quite a complex. Most o
 - A nice discussion on topic: https://softwareengineering.stackexchange.com/questions/25564/when-should-you-call-yourself-a-senior-developer
 - An interesting view on what makes a Senior Software Engineer: https://medium.com/@kurtisnusbaum/what-makes-a-senior-software-engineer-b65c88c539c
 - A good article developing a framework for measuring seniority: http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html
+- A brief overview of traits common to the Senior Software Engineers of all ages: https://medium.com/better-programming/the-marks-of-a-true-senior-developer-d5f3b11c3375
 
 ## Action
 - A decent guide into becoming a Senior Developer: https://hackernoon.com/developers-edge-how-to-become-a-senior-developer-f1ec1738cf45
